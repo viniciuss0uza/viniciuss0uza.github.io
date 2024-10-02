@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #1d3a70;
     color: white;
     padding: 20px;
     text-align: center;
@@ -54,7 +54,7 @@ header p {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #1d3a70;
     margin-bottom: 10px;
 }
 
@@ -72,7 +72,7 @@ ul li {
 }
 
 .tecnologias li {
-    background-color: #4CAF50;
+    background-color: #1d3a70;
     color: white;
     padding: 10px;
     margin: 5px;
@@ -81,7 +81,7 @@ ul li {
 }
 
 footer {
-    background-color: #4CAF50;
+    background-color: #1d3a70;
     color: white;
     text-align: center;
     padding: 10px 0;
